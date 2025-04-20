@@ -5,5 +5,9 @@
 
 
 
-![image](https://github.com/user-attachments/assets/3973c362-c04d-453d-a425-e57e13332926)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,springboot,git,github,js" />
+  </a>
+</p>
 
