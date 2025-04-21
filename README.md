@@ -6,6 +6,6 @@
 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,github,js" /> 
+    <img src="https://skillicons.dev/icons?i=java,spring,git,github,sql,docker,js" /> 
 </a>
 
