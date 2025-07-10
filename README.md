@@ -6,6 +6,6 @@
 
 <p><strong>My Stacks:</strong></p> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql,docker,js" /> 
+    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,nextjs,react,ts,git,github,mysql,docker," /> 
 </a>
 
